@@ -1,0 +1,157 @@
+what is git
+whatis GitHub
+what is vcs
+types of vcs's
+
+difference between cvcs/dvcs
+
+git work flow
+   wha tis local repo
+  what is the of .git
+  what are all diff directories
+
+what is index area/staging area
+
+what is commit area
+
+what is branch
+what is HEAD
+git init
+git add
+git status
+git commit -m""
+git log
+git shortlog
+
+* git is a tool
+================================================================================
+
+porceian commands: user friendly commands: git add,git log....
+                 :high level git commands
+
+plumbing commands: low-level internal commands:
+
+                 : debugging corrupted repos
+                 : writing custom git automation
+                  : ci/cd analysis
+                 : to understand how git is store the data
+
+====================================================================================
+what is remote repository?
+
+ * is a distributed repository where we will share the code and maintain the code.
+
+ *GitHub is a not tool
+ * is repository used for hosting service
+ * provides centralized collaboration for distributed teams
+ * types of repo's: public repo and private repo
+ * we will maintain private repo at corporate level
+ *devops engineer will handling the repo's: framework.
+ *maintain full git history
+* need to handle repo's at diff level: per project ,organization
+* uses branches for parallel development 
+* what is branch: is linear independent work flow
+*default branch is :  master/main
+* GitHub enables forking repostiories
+* GitHub supports PR workflows-->pull request
+*PR enables code review before merge
+*supports--RBAC:-->GitHub/Jenkins/docker/k8s/aws-IAM--read,write and admin]
+
+* user,team can work at organizational level
+
+*x----->push the code to repo at feature branch--->owner-define some mandatory
+   reviewers
+
+*workflow automation
+*branch protection rules--must avoid direct commits
+*quality gates
+*tracks the issues/tasks/bugs/enchancements
+*webhooks---restapi 
+*proper versions,builds,patches are numbering---tags-----release
+*wikis/doc
+* ci/cd automation-----githubactions---work flows--yaml
+*gihub+any ci/cd tools
+*devsecops---secrets
+*matrix builds
+*dependabot for dependency updates
+*secrets
+* security vulnerabilities
+
+*sast---tools--codeql
+* hhtps/ssh/gihubcli
+*gitops workflow
+*GitHub enterpises
+* mono repos/polyrepos
+* common strategies
+*jira updates
+*github+dockerhub
+*pagerduty alerts
+
+* orgs/teams/permissions/branch policies,sso,security/pipelines
+
+*GitHub failures:
+=========================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+why we need remote repository?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
