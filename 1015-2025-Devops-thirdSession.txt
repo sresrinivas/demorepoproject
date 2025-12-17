@@ -1,0 +1,150 @@
+why we need Linux OS for the Devops Team:
+******************************************
+
+1) Linux is backbone of servers
+
+       data centers,aws,azure,gcp--production servers
+ 
+     os: server-side os: ubuntu/redhat/centos/AmazonLinux
+
+aws---iaas--compute---service name-EC2
+azure--iaas--compute-service name--virtual machine
+
+2) docker/k8s/Jenkins/ansible/terraform/Grafana/Prometheus
+
+3) Essental for running devops tools
+
+4)Automation--shellscript
+
+5)  tools---files/scripts/setttings/configuration---file 
+
+6)better control over system performance
+
+7)open source 
+
+8)file permission,users,groups,firewall rules,ssh keys
+
+security:
+***********
+     1)user level
+     2) permissions
+     3)encryption
+
+SELINUX,seccomp
+
+
+9)k8s----node--Linux
+
+
+10)networking and troubleshooting 
+11)customization
+
+
+/etc/sysctl.conf  or /etc/fstab
+
+
+12)ci/cd  pipeline  dependens on Linux Node  linux-based agents
+
+13) cloud plaforms
+
+14) package-management 
+
+15) process management
+
+
+16) CI--pull--shedulers--cron jobs
+
+17)FILE SYSTEM 
+18)skills in troubleshooting
+
+19) storage : EBS
+
+20)
+==============================================================
+GUI/cli
+cli
+what is Linux:
+******************
+os
+shell
+kernel
+what is shell:
+*****************
+is a interpretor 
+accepts input as commands
+
+commands:
+*************
+
+simple
+complex
+compound 
+
+PHysical lapy---VM--vmwarework statation---ubuntu/al/redhat/centos
+
+cloud-----aws,azure
+
+
+aws -free t-ier 
+
+types of users: IAM,root user
+
+
+virtulization-layers
+
+lsns
+
+namespace and cgroups
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
