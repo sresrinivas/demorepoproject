@@ -1,0 +1,64 @@
+$---normal user
+
+#----root user
+
+to login as root user: sudo su -
+
+to logut and kill the sesson: exit
+
+whoami
+userlevel
+kernel level
+!6---
+
+trouble shooting
+shell scripting
+ssh sessions
+Jenkins ci logs
+*what is the diff between logout and exit
+pwd
+cd 
+uname
+cat
+head
+tail
+sudo su -
+logout
+exit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/home---is the home directory for the normal user
+
+/root----is the home directory for the root user
+
+/etc-----contains the configuration file
+
+cd .
+cd ..
+cd ~
+API
+
+
+
+
+
+
+
+
+
+
+
+
+
